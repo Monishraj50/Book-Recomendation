@@ -6,6 +6,6 @@ They suggest similar items based on a particular item. This system uses item met
 # Collaborative Filtering-
 This system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
 
-@TFIDF.ipynb follows the Content Based Filtering Method
+[TFIDF.ipynb] follows the Content Based Filtering Method
 
-@Book Recomendation by SVD.ipynb follows the Collaborative Filtering
+[Book Recomendation] by SVD.ipynb follows the Collaborative Filtering
