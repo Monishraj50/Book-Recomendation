@@ -8,4 +8,4 @@ This system matches persons with similar interests and provides recommendations 
 
 [TFIDF.ipynb](https://github.com/Monishraj50/Book-Recomendation/blob/master/TFIDF.ipynb) follows the Content Based Filtering Method
 
-[Book Recomendation](https://github.com/Monishraj50/Book-Recomendation/blob/master/Book_Recomendation_by_SVD.ipynb) follows the Collaborative Filtering
+[Book Recomendation_by_SVD.ipynb](https://github.com/Monishraj50/Book-Recomendation/blob/master/Book_Recomendation_by_SVD.ipynb) follows the Collaborative Filtering
